@@ -8,9 +8,9 @@
       "jquery.mobile.js"
     ],
     "option": [
-      "jquery.mobile.css",
-      "jquery.mobile.structure.css",
-      "jquery.mobile.theme.css"
+      "css/jquery.mobile.css",
+      "css/jquery.mobile.structure.css",
+      "css/jquery.mobile.theme.css"
     ]
   },
   "dependencies": {
